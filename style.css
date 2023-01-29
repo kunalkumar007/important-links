@@ -1,16 +1,20 @@
 body {
   text-align: center;
+  font-family: "Poppins", sans-serif;
 }
-.links {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+.links {
+}
 
 a {
   text-decoration: none;
-  display: inline-block;
+  display: block;
   padding: 8px 16px;
+  margin-top: 5px;
 }
 a:hover {
   background-color: #ddd;
