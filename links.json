@@ -37,14 +37,6 @@
   },
   {
     "link": "https://overapi.com/",
-    "title": "Carbon.sh: share beautiful images of your source code."
-  },
-  {
-    "link": "https://overapi.com/",
-    "title": "Carbon.sh: share beautiful images of your source code."
-  },
-  {
-    "link": "https://overapi.com/",
     "title": "OverAPI: collection of cheatsheet of most programming languages"
   },
   {
@@ -58,5 +50,61 @@
   {
     "link": "https://codepen.io/",
     "title": "CodePen.io: online code editor and front developer tool"
+  },
+  {
+    "link": "https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd",
+    "title": "Complete Introduction to the 30 Most Essential Data Structures & Algorithms"
+  },
+  {
+    "link": "https://dev.to/envoy_/150-badges-for-github-pnk",
+    "title": "150+ Badges for Github"
+  },
+  {
+    "link": "https://downloadly.net/",
+    "title": "Downloadly: download Udemy Courses"
+  },
+  {
+    "link": "https://freetutsdownload.com/",
+    "title": "freetutsdownload: download Udemy Courses"
+  },
+  {
+    "link": "https://commitlint.io/",
+    "title": "lint commit messages online"
+  },
+  {
+    "link": "https://books.goalkicker.com/",
+    "title": "Programming Notes for Professionals books"
+  },
+  {
+    "link": "https://github.com/EbookFoundation/free-programming-books",
+    "title": "Freely Available Programming books"
+  },
+  {
+    "link": "https://blog.prototypr.io/12-places-to-find-beautiful-free-illustrations-f765967ba44c",
+    "title": "13 places to find Beautiful Free Illustrations"
+  },
+  {
+    "link": "https://undraw.co/",
+    "title": "unDraw: Open-source illustrations for any idea you can imagine and create"
+  },
+  {
+    "link": "https://visualgo.net/en",
+    "title": "visualising data structures and algorithms through animation"
+  },
+  {
+    "link": "https://github.com/idontknowjs/gsoc-web-projects",
+    "title": "List of Open Source organizations participating in GSoC"
+  },
+  {
+    "link": "https://github.com/kunalkumar007/awesome-javascript",
+    "title": "Awesome Javascript: A collection of awesome browser-side JavaScript libraries"
+  },
+  {
+    "link": "https://github.com/trekhleb/javascript-algorithms",
+    "title": "JavaScript based examples of many popular algorithms and data structures"
+  },
+  {
+    "link": "https://stackoverflow.com/a/68780401/13500538",
+    "title": "Message: \"Support for password authentication was removed. Please use a personal access token instead.\""
   }
 ]
