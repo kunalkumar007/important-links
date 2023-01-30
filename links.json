@@ -106,5 +106,9 @@
   {
     "link": "https://stackoverflow.com/a/68780401/13500538",
     "title": "Message: \"Support for password authentication was removed. Please use a personal access token instead.\""
+  },
+  {
+    "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
+    "title": "FreeCodeCamp: How to Update NPM Dependencies"
   }
 ]
